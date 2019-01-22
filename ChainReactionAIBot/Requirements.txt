@@ -1,0 +1,6 @@
+
+numpy
+
+PyOpenGl>=3.0
+
+Pygame>=1.9.0
